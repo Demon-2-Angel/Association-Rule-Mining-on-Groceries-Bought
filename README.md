@@ -2,6 +2,7 @@
 <p align=center>
 <img src="https://github.com/Demon-2-Angel/Association-Rule-Mining-on-Groceries-Bought/blob/main/shopping_cart_banner.jpg">
 </p>
+
 ## 1. Data Loading and Exploration:
 - Libraries such as NumPy, Pandas, and Plotly are imported for data manipulation and visualization.
 - The 'apyori' library is imported for association rule mining.
