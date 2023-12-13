@@ -1,6 +1,6 @@
 # Summary of Python Code for Association Rule Mining in Grocery Dataset
 <p align=center>
-<img src="https://github.com/Demon-2-Angel/Association-Rule-Mining-on-Groceries-Bought/blob/main/shopping_cart_banner.jpg">
+<img src="https://github.com/Demon-2-Angel/Association-Rule-Mining-on-Groceries-Bought/blob/main/Images/shopping_cart_banner.jpg">
 </p>
 
 ## 1. Data Loading and Exploration:
